@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">temp</string>
+    <string name="movies_list">Movies list</string>
+    <string name="tempdescription">tempDescription</string>
+    <string name="description">description</string>
+    <string name="temp">Temp</string>
+    <string name="tag1">Action, Adventure, Drama</string>
+    <string name="duration1">137 MIN</string>
+    <string name="name1">Avengers: End Game</string>
+    <string name="reviews1">125 REVIEWS</string>
+    <string name="_13">13+</string>
+</resources>
