@@ -9,4 +9,8 @@
     <string name="name1">Avengers: End Game</string>
     <string name="reviews1">125 REVIEWS</string>
     <string name="_13">13+</string>
+    <string name="_16">16+</string>
+    <string name="action_sci_fi_thriller">Action, Sci-Fi, Thriller</string>
+    <string name="_99_reviews">99 REVIEWS</string>
+    <string name="Tenet">Tenet</string>
 </resources>
